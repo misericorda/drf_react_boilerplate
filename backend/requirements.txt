@@ -13,7 +13,7 @@ django-debug-toolbar==1.9.1
 django-extensions==2.0.6
 django-webpack-loader==0.6.0
 django==2.0.6
-djangorestframework==3.7.7
+djangorestframework==3.9.1
 idna==2.6                 # via requests
 itypes==1.1.0             # via coreapi
 jinja2==2.10              # via coreschema
